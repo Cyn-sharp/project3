@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gymApp.Forms.EditMemberForm" Collapsed="true">
+    <Position X="1" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAYCAAABgBAACAAAACAABAAJQEgAAAAAoAAAA=</HashCode>
+      <FileName>Forms\EditMemberForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gymApp.Forms.FormAbout" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAACCAAAACAAAAAAAAgAAQAAAAAAA=</HashCode>
+      <FileName>Forms\FormAbout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gymApp.Forms.FormEquipment" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAgCARCBAQAECIAAACAIgEgAAhIRgBAAJHAQI=</HashCode>
+      <FileName>Forms\FormEquipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gymApp.Forms.FormInstructor" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACggBKAACARDBgQAEiAAQkCEABAhEAghQChAAIHAAI=</HashCode>
+      <FileName>Forms\FormInstructor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gymApp.Forms.FormMembers" Collapsed="true">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIAEAAJCBRChgBAACAgAAGAABAAMQAgABQCABAAWA=</HashCode>
+      <FileName>Forms\FormMembers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gymApp.Forms.formMemberships" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggQAwAAERKAAABiBEYCAQAACABpYAAAAgeAAAAEBBUA=</HashCode>
+      <FileName>Forms\FormMemberships.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gymApp.Forms.FormResetPassword" Collapsed="true">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAACASAEABgAAACAAABCCAAAAAAAABAAAAEAAAA=</HashCode>
+      <FileName>Forms\FormResetPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gymApp.Forms.FormSearchMember" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAACCBAIBgAAACAAAACAAAARAAAgIAAQAAKAAM=</HashCode>
+      <FileName>Forms\FormSearchMember.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gymApp.Forms.BaseForm" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAgAAAAAAAAAg=</HashCode>
+      <FileName>Forms\BaseForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
