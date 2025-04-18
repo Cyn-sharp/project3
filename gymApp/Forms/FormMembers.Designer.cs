@@ -68,7 +68,7 @@
             // 
             // btnAddMember
             // 
-            btnAddMember.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
+            btnAddMember.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             btnAddMember.FlatStyle = FlatStyle.Flat;
             btnAddMember.Location = new Point(23, 400);
             btnAddMember.Name = "btnAddMember";
@@ -374,8 +374,9 @@
             // 
             // btnCancelAdd
             // 
+            btnCancelAdd.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             btnCancelAdd.FlatStyle = FlatStyle.Flat;
-            btnCancelAdd.Location = new Point(265, 400);
+            btnCancelAdd.Location = new Point(332, 400);
             btnCancelAdd.Name = "btnCancelAdd";
             btnCancelAdd.Size = new Size(94, 38);
             btnCancelAdd.TabIndex = 1;
@@ -385,8 +386,9 @@
             // 
             // btnConfrimAdd
             // 
+            btnConfrimAdd.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             btnConfrimAdd.FlatStyle = FlatStyle.Flat;
-            btnConfrimAdd.Location = new Point(166, 400);
+            btnConfrimAdd.Location = new Point(233, 400);
             btnConfrimAdd.Name = "btnConfrimAdd";
             btnConfrimAdd.Size = new Size(93, 38);
             btnConfrimAdd.TabIndex = 1;
@@ -396,6 +398,7 @@
             // 
             // richTextBox2
             // 
+            richTextBox2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
             richTextBox2.Location = new Point(3, 3);
             richTextBox2.Name = "richTextBox2";
             richTextBox2.Size = new Size(426, 450);

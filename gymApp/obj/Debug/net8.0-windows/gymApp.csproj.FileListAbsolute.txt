@@ -50,10 +50,14 @@ C:\Users\CYNDRICK\Desktop\Project\gymApp\bin\Debug\net8.0-windows\runtimes\win\l
 C:\Users\CYNDRICK\Desktop\Project\gymApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.csproj.AssemblyReference.cache
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.FormMainMenu.resources
+C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.BaseForm.resources
+C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.EditMemberForm.resources
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.FormAbout.resources
+C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.FormAttendance.resources
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.FormEquipment.resources
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.FormInstructor.resources
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.FormMembers.resources
+C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.formMemberships.resources
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.FormResetPassword.resources
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.FormSearchMember.resources
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Login.resources
@@ -70,6 +74,3 @@ C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\refint\gymApp.
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.pdb
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.genruntimeconfig.cache
 C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\ref\gymApp.dll
-C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.EditMemberForm.resources
-C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.formMemberships.resources
-C:\Users\CYNDRICK\Desktop\Project\gymApp\obj\Debug\net8.0-windows\gymApp.Forms.BaseForm.resources

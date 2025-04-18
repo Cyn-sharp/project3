@@ -118,13 +118,27 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="button6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="button4.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
         DAAACwwBP0AiyAAAAMVJREFUSEvtlkEKwkAQBPt5ij/yAyr5lf5B75p/GPYQGJotGyEiaArqsvRQ15VW
         /o2dpFHSc2EfkrYeq7SBHy3l3WOVefQuHiGROAA8QCJxAHiAROIA8ACJxAHgARKJA8ADJEKDk6SrPxY8
         QCK9wRHeKx4gER/sO8ezl85dEvHBq/C5c5dEeoMDvFc8QCI0GCTd/LHgARKJA8ADJBIHgAdIJA4AD5BI
         HAAeIJE4ADxAInEAeIBEvvb1aR+yT8RbdOOxld9mAlqkSVhgiymzAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="button6.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        EwAACxMBAJqcGAAAAcdJREFUSEvtlitLrUEUhh+wWUQ4il3Bck7SIlpsRvGST7P4K7wXsYhVMNgFgwoG
+        wewlHOF4wKRBsXg3eeGFGZi99prD1vmCwRde9nZmrfXsWfPNfMK3vqg6gRXgH/AIXAMbQLcNrFLDwDPw
+        5vgSmATabFKptFKt0AKtL4AOm1yiZQeS85xNLtFfB5DzH5tcotzeer6zySW6cgA5VwrecgA579rkEm06
+        gJwVW5l0TCwg53ObXKIlB5Dzok0ulfbOQqzXbFIVGnJA0adAv02oUgsOdA9oCfPtwCxwBDwEHwIzYa5I
+        KVQ3WoSOhzNsf1i05sZMrQ8pFnoFBsKYoPrbwqwV8yn4aFJkJ4yphf9bqfVto6/PJmAQWAdekgK/w7z2
+        1BZPreu2J3Qnjk0bRo36gNXwX4YtJneFuGNnLoX+DHG9ybgeuDqpDdtOEevmEJ+2WUdKAAFTqD7TF03d
+        i6QVOHMgnuPTnILVUkmgHFTWPtdo3gHk/Cvk6MzGsXSVkgeV61p94gTlPBFydDmk4wKp3bHlNk+eMlye
+        nKCc90POR4/TDfDDcD8tXQqNXiAjNrlUguuhsbB0pZVDo3QUdTkcAPfB+q49rWnvO9VRVkhL4aLZAAAA
+        AElFTkSuQmCC
 </value>
   </data>
   <data name="button5.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

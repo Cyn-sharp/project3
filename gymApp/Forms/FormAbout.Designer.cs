@@ -36,6 +36,7 @@
             // 
             // richTextBox1
             // 
+            richTextBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             richTextBox1.Location = new Point(2, 65);
             richTextBox1.Name = "richTextBox1";
             richTextBox1.Size = new Size(786, 216);
@@ -54,6 +55,7 @@
             // 
             // label6
             // 
+            label6.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             label6.AutoSize = true;
             label6.Font = new Font("Segoe UI", 14F);
             label6.Location = new Point(624, 353);

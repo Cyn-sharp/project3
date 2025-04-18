@@ -22,6 +22,10 @@ namespace gymApp.Forms
         public formMemberships()
         {
             InitializeComponent();
+            this.Text = "Membership Management";
+            this.FormBorderStyle = FormBorderStyle.None;
+            this.Dock = DockStyle.Fill;
+            this.TopLevel = false;
         }
         private void LoadTheme()
         {
@@ -96,10 +100,7 @@ namespace gymApp.Forms
         {
             LoadTheme();
             LoadAllMemberships();
-            btnSoontoExpire.Click += btnSoontoExpire_Click;
-            btnRemind.Click += btnSendReminders_Click;
-            btnRenew.Click += btnRenew_Click;
-            btnShowStats.Click += btnShowStats_Click;
+            btnSoonToExpire.Click += btnSoontoExpire_Click;
 
             // Set up grid
             dataGridView1.AutoGenerateColumns = false;

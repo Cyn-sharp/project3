@@ -131,5 +131,10 @@ namespace gymApp
             currentButton = null;
             btnRefreshForm.Visible = false;
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            OpenChildForm(new Forms.FormAttendance(), sender);
+        }
     }
 }

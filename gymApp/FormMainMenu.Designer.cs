@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMainMenu));
             panelMenu = new Panel();
+            button4 = new Button();
             button6 = new Button();
             button5 = new Button();
             button3 = new Button();
@@ -53,6 +54,7 @@
             // panelMenu
             // 
             panelMenu.BackColor = Color.FromArgb(51, 51, 76);
+            panelMenu.Controls.Add(button4);
             panelMenu.Controls.Add(button6);
             panelMenu.Controls.Add(button5);
             panelMenu.Controls.Add(button3);
@@ -66,6 +68,26 @@
             panelMenu.Name = "panelMenu";
             panelMenu.Size = new Size(192, 538);
             panelMenu.TabIndex = 0;
+            // 
+            // button4
+            // 
+            button4.Dock = DockStyle.Top;
+            button4.FlatAppearance.BorderSize = 0;
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.Font = new Font("Segoe UI", 11F);
+            button4.ForeColor = Color.Gainsboro;
+            button4.Image = (Image)resources.GetObject("button4.Image");
+            button4.ImageAlign = ContentAlignment.MiddleLeft;
+            button4.Location = new Point(0, 330);
+            button4.Margin = new Padding(3, 2, 3, 2);
+            button4.Name = "button4";
+            button4.Padding = new Padding(12, 0, 0, 0);
+            button4.Size = new Size(192, 45);
+            button4.TabIndex = 11;
+            button4.Text = "      Logout";
+            button4.TextAlign = ContentAlignment.MiddleLeft;
+            button4.TextImageRelation = TextImageRelation.ImageBeforeText;
+            button4.UseVisualStyleBackColor = true;
             // 
             // button6
             // 
@@ -82,10 +104,11 @@
             button6.Padding = new Padding(12, 0, 0, 0);
             button6.Size = new Size(192, 45);
             button6.TabIndex = 10;
-            button6.Text = "      Logout";
+            button6.Text = "      Attendance";
             button6.TextAlign = ContentAlignment.MiddleLeft;
             button6.TextImageRelation = TextImageRelation.ImageBeforeText;
             button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // button5
             // 
@@ -265,8 +288,8 @@
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(0, 0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(688, 478);
-            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.Size = new Size(685, 475);
+            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
@@ -311,5 +334,6 @@
         private Button btnRefreshForm;
         private PictureBox pictureBox1;
         private Button button6;
+        private Button button4;
     }
 }
